@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Programmer-DJ (Dayanand Jagtap)
-- 👀 A tech enthusiast and a MERN stack developer.
+- 👋 Hi, I’m Dayanand Jagtap (@IDayanandJagtap)
+- 👀 A tech enthusiast and a passionate developer.
 - 📫 How to reach me -> mail me on dayanandjagtap07@gmail.com
 - Feel free to connect 
 
